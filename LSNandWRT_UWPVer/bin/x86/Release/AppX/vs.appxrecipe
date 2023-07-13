@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AAOKITOBULAPTOP</Machine>
+    <WindowsUser>aaoki</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>e05e48d4-33c3-40f0-b807-679b96b893fa</PackageIdentityName>
+    <PackageIdentityPublisher>CN=aaoki</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>F4ECC3F3A74BF6EEA96B050CE6C51F2E178F5652025D9DBB143E865B42490D23</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e05e48d4-33c3-40f0-b807-679b96b893fa_1.0.2.0_x86__cf4bkycdbhc20</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e05e48d4-33c3-40f0-b807-679b96b893fa_cf4bkycdbhc20!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e05e48d4-33c3-40f0-b807-679b96b893fa</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=aaoki</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.2.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T13:03:09.171</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\BadgeLogo.scale-125.png">
+      <PackagePath>Assets\BadgeLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\BadgeLogo.scale-150.png">
+      <PackagePath>Assets\BadgeLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\BadgeLogo.scale-200.png">
+      <PackagePath>Assets\BadgeLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\BadgeLogo.scale-400.png">
+      <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.362</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2023-02-16T12:29:32.377</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.601</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.648</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.713</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:32.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-100.jpg">
+      <PackagePath>Assets\Square71x71Logo.scale-100.jpg</PackagePath>
+      <Modified>2023-02-16T12:29:32.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-125.jpg">
+      <PackagePath>Assets\Square71x71Logo.scale-125.jpg</PackagePath>
+      <Modified>2023-02-16T12:29:32.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-150.jpg">
+      <PackagePath>Assets\Square71x71Logo.scale-150.jpg</PackagePath>
+      <Modified>2023-02-16T12:29:33.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-200.jpg">
+      <PackagePath>Assets\Square71x71Logo.scale-200.jpg</PackagePath>
+      <Modified>2023-02-16T12:29:33.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-400.jpg">
+      <PackagePath>Assets\Square71x71Logo.scale-400.jpg</PackagePath>
+      <Modified>2023-02-16T12:29:33.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:33.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:33.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:33.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:33.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:33.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:33.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:33.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:33.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:33.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-02-16T12:29:33.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2021-10-10T06:49:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\LSNandWRT_UWPVer.dll">
+      <PackagePath>LSNandWRT_UWPVer.dll</PackagePath>
+      <Modified>2023-02-16T13:03:08.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\LSNandWRT_UWPVer.exe">
+      <PackagePath>LSNandWRT_UWPVer.exe</PackagePath>
+      <Modified>2023-02-16T13:03:09.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\LSNandWRT_UWPVer.pdb">
+      <PackagePath>LSNandWRT_UWPVer.pdb</PackagePath>
+      <Modified>2023-02-16T13:03:09.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Microsoft.Graphics.Canvas.dll">
+      <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
+      <Modified>2015-10-26T10:57:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\Microsoft.Graphics.Canvas.winmd">
+      <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
+      <Modified>2015-10-26T10:57:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2023-02-16T13:02:40.222</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\aaoki\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\aaoki\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\aaoki\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\aaoki\.nuget\packages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\aaoki\.nuget\packages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\aaoki\.nuget\packages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\aaoki\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\aaoki\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\aaoki\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.2.11-rel-30601-02\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\aaoki\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.2.11-rel-30601-02\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\aaoki\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.2.11-rel-30601-02\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\aaoki\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.2.11-rel-30601-02\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\aaoki\.nuget\packages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.11-rel-30601-02\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\aaoki\.nuget\packages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.11-rel-30601-02\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\aaoki\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.2.11-rel-30601-02\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\aaoki\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.2.11-rel-30601-02\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SmallTileSource>C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT\LSNandWRT\ICON - コピー.jpg</SmallTileSource>
+    <MediumTileSource>C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT\LSNandWRT\ICON - コピー.jpg</MediumTileSource>
+    <WideTileSource>C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT\LSNandWRT\ICON - コピー.jpg</WideTileSource>
+    <LargeTileSource>C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT\LSNandWRT\ICON - コピー.jpg</LargeTileSource>
+    <AppIconSource>C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT\LSNandWRT\ICON - コピー.jpg</AppIconSource>
+    <SplashScreenSource>C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT\LSNandWRT\ICON - コピー.jpg</SplashScreenSource>
+    <BadgeLogoSource>C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT\LSNandWRT\ICON - コピー.jpg</BadgeLogoSource>
+    <PackageLogoSource>C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT\LSNandWRT\ICON - コピー.jpg</PackageLogoSource>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30f105c9-681e-420b-a277-7c086ead8a4e</DeviceId>
+    <CommandLineArguments />
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30f105c9-681e-420b-a277-7c086ead8a4e</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <BackgroundTaskDebugEngines />
+    <CommandLineArguments>
+    </CommandLineArguments>
+  </PropertyGroup>
+</Project>

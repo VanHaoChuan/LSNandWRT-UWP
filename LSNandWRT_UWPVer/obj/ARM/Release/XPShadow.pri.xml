@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="XPShadow" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="XPShadow">
+				<NamedResource name="XPShadow.xr.xml" uri="ms-resource://XPShadow/Files/XPShadow/XPShadow.xr.xml">
+					<Candidate type="Path">
+						<Value>XPShadow\XPShadow.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Properties">
+					<NamedResource name="XPShadow.rd.xml" uri="ms-resource://XPShadow/Files/XPShadow/Properties/XPShadow.rd.xml">
+						<Candidate type="Path">
+							<Value>XPShadow\Properties\XPShadow.rd.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://XPShadow/Files/XPShadow/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://vanhaochuan.github.io/LSNandWRT_UWPVer.appinstaller"
+	Version="1.0.2.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="e05e48d4-33c3-40f0-b807-679b96b893fa"
+		Version="1.0.2.0"
+		Publisher="CN=aaokitobu"
+		Uri="https://vanhaochuan.github.io/LSNandWRT_UWPVer_1.0.2.0_Test/LSNandWRT_UWPVer_1.0.2.0_x86_x64_arm.msixbundle" />
+	<Dependencies>
+		<Package
+			Name="Microsoft.NET.Native.Framework.2.2"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x86"
+			Uri="https://vanhaochuan.github.io/LSNandWRT_UWPVer_1.0.2.0_Test/Dependencies/x86/Microsoft.NET.Native.Framework.2.2.appx"
+			Version="2.2.29512.0" />
+		<Package
+			Name="Microsoft.NET.Native.Framework.2.2"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x64"
+			Uri="https://vanhaochuan.github.io/LSNandWRT_UWPVer_1.0.2.0_Test/Dependencies/x64/Microsoft.NET.Native.Framework.2.2.appx"
+			Version="2.2.29512.0" />
+		<Package
+			Name="Microsoft.NET.Native.Framework.2.2"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="arm"
+			Uri="https://vanhaochuan.github.io/LSNandWRT_UWPVer_1.0.2.0_Test/Dependencies/arm/Microsoft.NET.Native.Framework.2.2.appx"
+			Version="2.2.29512.0" />
+		<Package
+			Name="Microsoft.NET.Native.Runtime.2.2"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x86"
+			Uri="https://vanhaochuan.github.io/LSNandWRT_UWPVer_1.0.2.0_Test/Dependencies/x86/Microsoft.NET.Native.Runtime.2.2.appx"
+			Version="2.2.28604.0" />
+		<Package
+			Name="Microsoft.NET.Native.Runtime.2.2"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x64"
+			Uri="https://vanhaochuan.github.io/LSNandWRT_UWPVer_1.0.2.0_Test/Dependencies/x64/Microsoft.NET.Native.Runtime.2.2.appx"
+			Version="2.2.28604.0" />
+		<Package
+			Name="Microsoft.NET.Native.Runtime.2.2"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="arm"
+			Uri="https://vanhaochuan.github.io/LSNandWRT_UWPVer_1.0.2.0_Test/Dependencies/arm/Microsoft.NET.Native.Runtime.2.2.appx"
+			Version="2.2.28604.0" />
+		<Package
+			Name="Microsoft.VCLibs.140.00"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="arm"
+			Uri="https://vanhaochuan.github.io/LSNandWRT_UWPVer_1.0.2.0_Test/Dependencies/arm/Microsoft.VCLibs.ARM.14.00.appx"
+			Version="14.0.30704.0" />
+		<Package
+			Name="Microsoft.VCLibs.140.00"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x64"
+			Uri="https://vanhaochuan.github.io/LSNandWRT_UWPVer_1.0.2.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.appx"
+			Version="14.0.30704.0" />
+		<Package
+			Name="Microsoft.VCLibs.140.00"
+			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+			ProcessorArchitecture="x86"
+			Uri="https://vanhaochuan.github.io/LSNandWRT_UWPVer_1.0.2.0_Test/Dependencies/x86/Microsoft.VCLibs.x86.14.00.appx"
+			Version="14.0.30704.0" />
+	</Dependencies>
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>

@@ -1,0 +1,106 @@
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\App.xbf
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\MainPage.xbf
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\LSNandWRT_UWPVer.xr.xml
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\LSNandWRT_UWPVer.exe
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\LSNandWRT_UWPVer.pdb
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\resources.pri
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\AppxManifest.xml
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\Core\LSNandWRT_UWPVer.exe
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\LSNandWRT_UWPVer.build.appxrecipe
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\System.Runtime.dll
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\LSNandWRT_UWPVer.csproj.AssemblyReference.cache
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\App.g.i.cs
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\App.g.cs
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\MainPage.g.cs
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\App.xaml
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\MainPage.xaml
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\App.xbf
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\MainPage.xbf
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\LSNandWRT_UWPVer.csproj.CoreCompileInputs.cache
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\LSNandWRT_UWPVer.csproj.CopyComplete
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\LSNandWRT_UWPVer.exe
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\LSNandWRT_UWPVer.pdb
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\priconfig.xml
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\resources.resfiles
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\pri.resfiles
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\qualifiers.txt
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\OneUser\source\repos\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424527200000000.json
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\App.xbf
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\MainPage.xbf
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\LSNandWRT_UWPVer.xr.xml
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\LSNandWRT_UWPVer.exe
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\LSNandWRT_UWPVer.pdb
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\resources.pri
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\AppxManifest.xml
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\Core\ForBundle\AppxManifest.xml
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\Core\LSNandWRT_UWPVer.exe
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\LSNandWRT_UWPVer.build.appxrecipe
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\System.Runtime.dll
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\LSNandWRT_UWPVer.csproj.AssemblyReference.cache
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\App.g.i.cs
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\App.g.cs
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\MainPage.g.cs
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\App.xaml
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\MainPage.xaml
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\App.xbf
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\MainPage.xbf
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\LSNandWRT_UWPVer.csproj.CoreCompileInputs.cache
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\LSNandWRT_UWPVer.csproj.CopyComplete
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\LSNandWRT_UWPVer.exe
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\LSNandWRT_UWPVer.pdb
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\priconfig.xml
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\resources.resfiles
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\pri.resfiles
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\qualifiers.txt
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424527200000000.json
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\XPShadow\XPShadow.xr.xml
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\XPShadow\Properties\XPShadow.rd.xml
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\Workaround1200257.dll
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\XPShadow.dll
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Debug\XPShadow.pdb
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\XPShadow.pri.xml
+C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_635814538740000000.json

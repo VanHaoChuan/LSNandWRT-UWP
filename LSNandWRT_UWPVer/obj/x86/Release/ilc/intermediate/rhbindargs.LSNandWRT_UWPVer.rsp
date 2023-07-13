@@ -1,0 +1,17 @@
+﻿/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\aaoki\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.2.11-rel-30601-02\tools\x86\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x86\Release\ilc\intermediate\MDIL\LSNandWRT_UWPVer.mdilexe"
+"/i:C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x86\Release\ilc\intermediate\MDIL"
+"/out:C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x86\Release\ilc\intermediate\Native\LSNandWRT_UWPVer.exe"
+"/pdbAltPath:C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\ilc"
+"/res:C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x86\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\aaoki\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"
+"/sourcelink:C:\Users\aaoki\Documents\Programming\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.Toolkit.Uwp.Notifications.srclink"

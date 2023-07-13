@@ -1,0 +1,2 @@
+MainPackage=C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x86\Release\LSNandWRT_UWPVer_1.0.2.0_x86.msix
+SymbolPackage=C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x86\Release\Symbols\LSNandWRT_UWPVer_1.0.2.0_x86.appxsym

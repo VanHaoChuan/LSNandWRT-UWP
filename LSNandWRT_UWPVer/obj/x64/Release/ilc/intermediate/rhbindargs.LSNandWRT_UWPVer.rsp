@@ -1,0 +1,17 @@
+﻿/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.11-rel-30601-02\tools\x64\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Release\ilc\intermediate\MDIL\LSNandWRT_UWPVer.mdilexe"
+"/i:C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Release\ilc\intermediate\MDIL"
+"/out:C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Release\ilc\intermediate\Native\LSNandWRT_UWPVer.exe"
+"/pdbAltPath:C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\bin\x64\Release\ilc"
+"/res:C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Release\ilc\intermediate\Native.res"
+"/i:C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"
+"/sourcelink:C:\Users\OneUser\OneDrive - okitobu\Application\LSNandWRT_UWPVer\LSNandWRT_UWPVer\obj\x64\Release\ilc\intermediate\ILTransformed\Microsoft.Toolkit.Uwp.Notifications.srclink"
